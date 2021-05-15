@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="yad dasht kargah:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/yad_dasht_kargah_jar</output-path>
+    <root id="archive" name="yad dasht kargah.jar">
+      <element id="module-output" name="yad dasht kargah" />
+    </root>
+  </artifact>
+</component>
